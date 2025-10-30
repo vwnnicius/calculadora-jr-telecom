@@ -7,7 +7,7 @@ Aplicação Next.js full-stack para cálculo de débitos e multas rescisórias d
 - **Calculadora de Limpeza**: Calcula débitos de faturas em atraso com juros e multas
 - **Calculadora de Multa Rescisória**: Calcula multas por rescisão antecipada e débitos de equipamentos
 - **API Serverless**: Toda lógica de cálculo protegida no servidor
-- **Interface Moderna**: Design minimalista com animações de fibra óptica
+- **Interface Moderna**: Design minimalista
 - **Responsivo**: Otimizado para diferentes tamanhos de tela
 
 ## Tecnologias
@@ -173,4 +173,4 @@ Propriedade de JR TELECOM. Todos os direitos reservados.
 
 ---
 
-Desenvolvido com Next.js e Vercel
+Desenvolvido com Next.js e Vercel. Criado por Vwnnicius
